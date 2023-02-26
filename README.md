@@ -1,2 +1,4 @@
 # android_city_guide
- Android Material Design City Guide App
+
+City Guide Application
+with Native Android / Java and Material Design
