@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <!-- OWN COLORS -->
+    <!-- OWN color palettes -->
     <color name="yellowPrimary200">#FFF59D</color>
     <color name="yellowPrimary500">#FFE400</color>
     <color name="yellowPrimary700">#FBC02D</color>
@@ -20,5 +20,16 @@
     <color name="darkGrayAccent">#272727</color>
     <color name="lightWhite">#F2F5F8</color>
     <color name="lightBrownBanner">#F1E9CE</color>
+
+    <!-- Dashboard colors -->
+    <color name="home_background">#F2F5F8</color>
+    <color name="banner_background">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+    <!-- Card colors -->
+    <color name="card1">#D4CBE5</color>
+    <color name="card2">#7ADCCF</color>
+    <color name="card3">#F7C59F</color>
+    <color name="card4">#B8D7F5</color>
 
 </resources>
