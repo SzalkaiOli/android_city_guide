@@ -21,7 +21,10 @@
     <color name="lightWhite">#F2F5F8</color>
     <color name="lightBrownBanner">#F1E9CE</color>
 
+
     <!-- Dashboard colors -->
+
+    <!-- Body and background colors -->
     <color name="home_background">#F2F5F8</color>
     <color name="banner_background">#F1E9CE</color>
     <color name="banner_background_light">#56F1E9CE</color>
